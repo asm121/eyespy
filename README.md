@@ -1,1 +1,3 @@
-Eyespy anonymous file hosting scraper by Austin Martin 
+EyeSpy: An anonymous file hosting scraper by Austin Martin 
+
+
